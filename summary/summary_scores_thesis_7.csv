@@ -1,0 +1,7 @@
+Domein,Model,Word_Count,JA,FJ,CIL,LG,AU,Lexical_TFIDF,Semantic_BERT
+Housing Allocation,1_Baseline,585.67,3.67,3.33,3.33,4.33,4.0,0.84,0.66
+Housing Allocation,2_LegalBERT_RAG,711.0,3.67,3.67,3.33,4.33,4.0,0.85,0.55
+Housing Allocation,3_LegalBERT_RAG_OPTIMIZED,705.0,3.67,3.0,3.33,4.67,4.33,0.86,0.64
+Vacation Rental,1_Baseline,543.67,4.33,4.0,3.67,5.0,5.0,0.81,0.73
+Vacation Rental,2_LegalBERT_RAG,696.0,4.33,4.33,4.0,5.0,5.0,0.84,0.65
+Vacation Rental,3_LegalBERT_RAG_OPTIMIZED,715.67,5.0,4.67,4.33,5.0,5.0,0.85,0.78

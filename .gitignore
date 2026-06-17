@@ -5,7 +5,15 @@ build/
 dist/
 wheels/
 *.egg-info
+.python-version
+pyproject.toml
  
 # Virtual environments
 .venv
 .env
+
+# Private Data
+Data/
+Data_created/
+Data_training/
+LegalCheck - Merlijne/

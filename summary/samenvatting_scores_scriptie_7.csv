@@ -1,0 +1,7 @@
+Domein,Model,Word_Count,JA,FJ,CIL,LG,AU,Lexical_TFIDF,Semantic_BERT
+Vakantieverhuur,1_Baseline,565.33,4.0,3.0,3.67,4.67,4.67,0.82,0.73
+Vakantieverhuur,2_LegalBERT_RAG,631.67,4.67,4.33,4.0,5.0,5.0,0.84,0.73
+Vakantieverhuur,3_LegalBERT_RAG_OPTIMIZED,438.0,3.33,2.67,3.33,4.67,4.33,0.82,0.69
+Woonruimteverdeling,1_Baseline,583.33,3.33,3.33,3.33,4.33,4.0,0.82,0.64
+Woonruimteverdeling,2_LegalBERT_RAG,790.67,3.33,3.0,3.33,4.67,4.33,0.88,0.61
+Woonruimteverdeling,3_LegalBERT_RAG_OPTIMIZED,453.0,2.67,2.0,2.67,4.0,3.67,0.81,0.52

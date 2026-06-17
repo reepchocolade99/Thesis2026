@@ -1,0 +1,85 @@
+{
+    "Vakantieverhuur": {
+        "mandatory_headings": [
+            "Advies",
+            "Aanleiding",
+            "Ontvankelijkheid",
+            "Bezwaren",
+            "Hoorzitting",
+            "Wet- en regelgeving",
+            "Overwegingen",
+            "Conclusie"
+        ],
+        "overwegingen_style": "The evaluation section is written in a structured, step-by-step manner, addressing each objection raised by the citizen and systematically matching it with the relevant legal framework, rules, and precedents. Always fully write out the specific arguments of the citizen and match them with the legal facts.",
+        "typical_subheadings": [
+            "Geen overleg",
+            "Strijd met het bestemmingsplan",
+            "Aantasting van het woon- en leefmilieu",
+            "Parkeren",
+            "Vergunninghouder is vaak niet aanwezig",
+            "Strijd met beleid",
+            "Vergunningsduur",
+            "Gebrek aan handhaving"
+        ],
+        "typical_sentences": [
+            "Wij adviseren als bezwaarschriftencommissie om de bezwaren ontvankelijk en ongegrond te verklaren.",
+            "Dit betekent dat u terecht een vergunning hebt verleend.",
+            "Hierna leest u waarom wij dit adviseren.",
+            "De termijn voor het indienen van een bezwaarschrift bedraagt zes weken.",
+            "Het bezwaarschrift voldoet aan de eisen die daaraan gesteld worden op grond van de Algemene wet bestuursrecht.",
+            "Wij overwegen dat het houden van een overleg met bewoners geen voorwaarde is om de vergunning te verkrijgen.",
+            "Een vergunning kan worden geweigerd indien sprake is van een onaanvaardbare inbreuk op een geordend woon- en leefmilieu.",
+            "Wij concluderen dat de vergunning op juiste gronden is verleend.",
+            "De toepasselijke wet- en regelgeving staat in de bijlage bij dit advies."
+        ],
+        "practical_consequences_layout": "The letter ends with a clear statement of the decision, followed by an explanation of the 6-week appeal clause. It specifies that the citizen can appeal to the court within six weeks of the decision date. Always include a definitive closing statement. Do not use placeholders, write the text as a definitive final document.",
+        "prompt_snippet": "Analyze the structure and recurring elements of Dutch legal objection letters. Identify mandatory headings, typical subheadings, standard legal phrases, and the logical framework used for evaluation. Ensure all text is written in fluent Dutch without placeholders or brackets. Provide a clear description of how the letter ends, including the appeal clause.",
+        "legal_assessment_framework": [
+            "Determine whether the objection is submitted within the legal timeframe.",
+            "Assess whether the objector qualifies as a 'belanghebbende' (interested party) based on proximity, visibility, and direct impact.",
+            "Evaluate the specific objections raised against the legal framework, such as compliance with the Huisvestingsverordening or other relevant regulations.",
+            "Check for any procedural or substantive violations in the original decision.",
+            "Consider whether the objections demonstrate an 'onaanvaardbare inbreuk' (unacceptable infringement) on the living environment or other protected interests.",
+            "Conclude whether the original decision was made in accordance with the law and whether the objections are valid or not."
+        ]
+    },
+    "Woonruimteverdeling": {
+        "mandatory_headings": [
+            "Datum en aanleiding van het bezwaar",
+            "Beslissing op bezwaar",
+            "Overwegingen en beoordeling van het bezwaar",
+            "Praktische gevolgen van het besluit",
+            "Beroepsmogelijkheid",
+            "Contactinformatie"
+        ],
+        "overwegingen_style": "The evaluation section is written in a structured and formal tone, starting with a summary of the citizen's arguments, followed by a detailed analysis of the legal framework and the specific circumstances of the case. The reasoning is methodical, citing relevant articles from the applicable regulations and explaining how they apply to the case. Always fully write out the specific arguments of the citizen and match them with the legal facts.",
+        "typical_subheadings": [
+            "Beslissing op bezwaar",
+            "Overwegingen",
+            "Toelichting op het besluit",
+            "Praktische gevolgen",
+            "Beroep instellen"
+        ],
+        "typical_sentences": [
+            "Wij verklaren uw bezwaarschrift gegrond.",
+            "Het bestreden besluit wordt herroepen.",
+            "Dit betekent dat u de gevraagde punten krijgt toegekend.",
+            "Hieronder leggen wij uit waarom wij dit besluit hebben genomen.",
+            "Wij hebben opdracht gegeven om de punten toe te kennen.",
+            "Mochten de punten na enkele werkdagen nog niet zichtbaar zijn, verzoeken wij u contact op te nemen met ons.",
+            "De naam van de behandelaar van uw zaak en de contactgegevens staan bovenaan op de eerste pagina van dit besluit.",
+            "Bent u het niet eens met dit besluit? Dan kunt u binnen zes weken in beroep gaan bij de Rechtbank.",
+            "Voor meer informatie verwijzen wij naar de website van WoningNet of socialehuurwoningzoeken.nl."
+        ],
+        "practical_consequences_layout": "The letter ends with a clear explanation of the practical implications of the decision, including instructions on how the decision will be implemented, timelines for updates in the system, and the process for contacting the relevant authorities if issues arise. It also includes a detailed explanation of the 6-week appeal process, including the address for submitting an appeal, the associated costs, and the possibility of requesting a provisional measure. Do not use placeholders, write the text as a definitive final document.",
+        "prompt_snippet": "Analyze the structure and content of Dutch legal objection decision letters. Identify recurring headings, subheadings, standard phrases, and the legal reasoning framework. Ensure all text is written in complete, natural Dutch sentences without placeholders or fill-in-the-blanks. Provide a clear and structured JSON output with the specified keys.",
+        "legal_assessment_framework": [
+            "1. Identify the specific legal basis for the original decision (e.g., relevant articles from the applicable regulations).",
+            "2. Summarize the citizen's arguments and objections in detail.",
+            "3. Reassess the case by applying the legal framework to the specific circumstances presented in the objection.",
+            "4. Evaluate any exceptions or special conditions, such as co-parenting arrangements or technical errors.",
+            "5. Determine whether the original decision aligns with the legal requirements and principles of fairness.",
+            "6. Conclude with a clear decision on whether the objection is upheld or rejected, and provide a detailed explanation of the reasoning."
+        ]
+    }
+}

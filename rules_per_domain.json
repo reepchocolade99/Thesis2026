@@ -1,0 +1,36 @@
+{
+    "Woonruimteverdeling": {
+        "mandatory_headings": [
+            "Op [DATE] maakte u bezwaar tegen het besluit van [DATE], waarbij [SUMMARY OF DECISION].",
+            "Beslissing op bezwaar",
+            "Bezwaren",
+            "Telefonisch verslag",
+            "Hoorzitting",
+            "Relevante feiten en omstandigheden",
+            "Overwegingen bij bezwaren en toelichting op het besluit",
+            "Beroep",
+            "Vragen?"
+        ],
+        "overwegingen_style": "The evaluation section ('Overwegingen bij bezwaren en toelichting op het besluit') is written in a structured narrative style with thematic subheadings. It often includes numbered items or bullet points to address specific arguments or conditions systematically.",
+        "typical_subheadings": [
+            "Bezwaren",
+            "Telefonisch verslag",
+            "Hoorzitting",
+            "Relevante feiten en omstandigheden",
+            "Overwegingen bij bezwaren en toelichting op het besluit",
+            "Wet- en regelgeving",
+            "Proceskosten"
+        ],
+        "typical_sentences": [
+            "Wij verklaren uw bezwaarschrift gegrond. Het bestreden besluit wordt herroepen.",
+            "Wij verklaren uw bezwaarschrift ongegrond. Het bestreden besluit wordt daarmee in stand gelaten.",
+            "Dit betekent dat u geen gelijk krijgt en het besluit om [ACTION] onveranderd blijft.",
+            "Wij benadrukken dat dit besluit een hoge uitzondering betreft.",
+            "Wij wijzen u erop dat u al uw zoek-, situatie- en startpunten kunt kwijtraken wanneer u een tweede keer binnen twee jaar [ACTION].",
+            "Voor meer informatie over [TOPIC], verwijzen wij naar [WEBSITE].",
+            "Bent u het niet eens met dit besluit? Dan kunt u binnen zes weken in beroep gaan bij de Rechtbank."
+        ],
+        "practical_consequences_layout": "The letter ends with a separate heading ('Beroep') that explains the 6-week appeal clause in a detailed, structured format. This is followed by a 'Vragen?' section for contact information and a formal closing with the sender's name and title.",
+        "prompt_snippet": "Write a formal decision letter in Dutch for the domain 'Woonruimteverdeling' following this exact structure: Start with a heading summarizing the objection date and decision. Include mandatory sections: 'Beslissing op bezwaar', 'Bezwaren', 'Telefonisch verslag', 'Hoorzitting', 'Relevante feiten en omstandigheden', 'Overwegingen bij bezwaren en toelichting op het besluit', 'Beroep', and 'Vragen?'. Use thematic subheadings in the evaluation section and include typical sentences like 'Wij verklaren uw bezwaarschrift gegrond.' End with a separate 'Beroep' section explaining the 6-week appeal clause and a 'Vragen?' section for contact details."
+    }
+}
