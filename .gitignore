@@ -14,6 +14,7 @@ pyproject.toml
 
 # Private Data
 Data/
+Data_temp/
 Data_created/
 Data_training/
 LegalCheck - Merlijne/
