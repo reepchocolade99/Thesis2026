@@ -60,23 +60,23 @@ While the data files cannot be pushed to GitHub, the scripts expect a specific d
 
 ## Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
    git clone [https://github.com/reepchocolade99/Thesis2026.git](https://github.com/reepchocolade99/Thesis2026.git)
    cd Thesis2026
 ```
-2. Install dependencies:
+2. **Install dependencies:** Ensure you have uv installed then run:
 
 ```bash
-   pip install -r requirements.txt
-Add your data: Place the .csv dataset into the /data folder.
+pip install uv
+uv sync
 ```
 
-3. Add your data: Create a local folder named data/ in the root directory and drop your target files inside:
+3. **Add your data:** Create a local folder named data/ in the root directory and drop your target files inside:
 
 ```bash
 data/vakantieverhuur.csv
 data/WRV_bezwaren_.csv
 ```
-4. Run the notebooks
+4. **Run the notebooks**
 
