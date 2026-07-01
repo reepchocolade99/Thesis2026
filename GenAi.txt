@@ -1,0 +1,27 @@
+## Use of AI
+
+
+### Editing the text.
+
+For the editing of the text I used ai in the following ways:
+
+- Can you check my text on gramatical mistakes.
+- Can you check my text if there arent things double 
+- Can you check if I didnt write it in American English but in British English
+
+This is used on multiple sections of the text.
+
+###  Create or debug the code:
+
+Ai was used to help me debug the code, if I got an error. But I did test if the Ai solution did what I wanted and if it didnt change my code completely. Most of th error help was about interpunction or misunderstanding of functions. 
+
+For the promt engineering I used the feedback of the experts as pilars, and asked Ai to give suggestions of how to add these pilars to the promting. If it where reasanoble ideas, which it mostly wasn't, I asked the ai how he would add it to the promt. This text was reviewed and changes where made (like shorting some parts, cleaning out hallucinations).
+
+For Overleaf, the Ai helped me to convert csv tables into overleaf tables and help me with 
+errors.
+
+## GitHub descriptions
+Fir the github descriptions, I promted an ipynb file and asked: 'Write me a short summery of this notebook that I can use at the top of this notebook.' Eventhough for each file I ended up rewriting the output and thus wrote most of it by myself. 
+
+
+ 
